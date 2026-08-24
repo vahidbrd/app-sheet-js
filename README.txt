@@ -409,9 +409,7 @@ The Sheet emits four lifecycle events:
 
 ```javascript
 sheet:open
-sheet:opened
 sheet:close
-sheet:closed
 ```
 
 Example:
