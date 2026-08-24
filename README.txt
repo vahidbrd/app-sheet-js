@@ -21,13 +21,7 @@ Supports touch and mouse dragging, responsive height, overlay, internal scrollin
 * No JavaScript dependencies
 * Works with Tailwind CSS or regular CSS
 
-## Installation
 
-Install the package using npm:
-
-```bash
-npm install sheet-panel
-```
 
 Then include the stylesheet and JavaScript according to your build setup.
 
