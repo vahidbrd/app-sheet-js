@@ -42,11 +42,9 @@ Then include the stylesheet and JavaScript according to your build setup.
     data-sheet-min-height="300"
     data-sheet-max-height="70"
 >
-    <div class="p-5">
-        <div class="overflow-y-auto">
+        <div class="overflow-y-auto p-5">
             Your content here...
         </div>
-    </div>
 </div>
 ```
 
